@@ -1,3 +1,3 @@
-"# Dev-Ops Practices" 
+"# Dev-Ops Practices Notes Will be here... " 
 
 *** Git
